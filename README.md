@@ -37,21 +37,21 @@ Develop a machine learning model to classify land cover pixels into **Forest Tre
   - [ ]  Annual min/max/mean for each band
   - [ ]  Year-to-year variation metrics
   - [ ]  Seasonal amplitude calculations
-  - [ ]  Scale features appropriately:
+- [ ]  Scale features appropriately:
   - [ ]  Normalize spectral bands
   - [ ]  Scale derived indices consistently
   - [ ]  Handle outliers in temporal aggregates
-  - [ ]  Structure data for model input:
+- [ ]  Structure data for model input:
   - [ ]  Organize features by AOI
   - [ ]  Create consistent temporal windows
   - [ ]  Format data for various model architectures (tabular vs sequential)
 
 
-- [ ] Process multi-temporal satellite data
+<!-- - [ ] Process multi-temporal satellite data
 - [ ] Develop robust classification features
-- [ ] Create a model that generalizes well across different AOIs
+- [ ] Create a model that generalizes well across different AOIs -->
 
-✅ **Extract Features**
+<!-- ✅ **Extract Features**
 
 - Compute NDVI for each year.
 - Flatten spatial data into a structured dataset.
@@ -104,4 +104,4 @@ Develop a machine learning model to classify land cover pixels into **Forest Tre
 
 🔹 Format dataset for **Random Forest baseline test**.  
 🔹 Train **1D CNN** as a first deep learning approach.  
-🔹 Expand to **2D/3D CNNs** if needed.
+🔹 Expand to **2D/3D CNNs** if needed. -->
